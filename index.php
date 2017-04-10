@@ -1,1 +1,2 @@
-<strong> Hello, world! </strong>
+<?php
+echo 'Hello, world!';
